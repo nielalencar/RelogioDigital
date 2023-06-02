@@ -8,7 +8,7 @@
 
 body {
     height: 100vh;
-    background: linear-gradient(120deg, #0e3bb6d8, #d60303da);
+    background: linear-gradient(250deg, #FF0000, #DC143C);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,7 +22,7 @@ body {
     width: 550px;
     background: transparent;
     border-radius: 3px;
-    box-shadow: 0px 8px 10px rgba(0, 0, 0, 5);
+    box-shadow: 0px 8px 10px rgba(0, 0, 0, 35);
 }
 
 .relogio div {
